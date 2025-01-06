@@ -1,4 +1,3 @@
-# Multi-Agency Booking Platform
 Micro-services based booking platform, with a micro-frontend architecture, for travel and hike agencies.
 ## Getting Started
 
